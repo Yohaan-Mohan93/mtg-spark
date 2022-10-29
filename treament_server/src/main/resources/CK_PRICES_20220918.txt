@@ -1,0 +1,726 @@
+ID|Name|Type|Set|Rarity|NM(USD)|EX(USD)|VG(USD)|G(USD)|Card Text
+0|Underground Sea|Land - Island Swamp|3rd Edition |R|899.99|809.99|719.99|629.99|: Add or .
+0|Volcanic Island|Land - Island Mountain|3rd Edition |R|899.99|809.99|719.99|629.99|: Add or .
+0|Tropical Island|Land - Forest Island|3rd Edition |R|679.99|611.99|543.99|475.99|: Add or .
+0|Tundra|Land - Plains Island|3rd Edition |R|649.99|584.99|519.99|454.99|: Add or .
+0|Taiga|Land - Mountain Forest|3rd Edition |R|479.99|431.99|383.99|335.99|: Add or .
+0|Savannah|Land - Forest Plains|3rd Edition |R|349.99|314.99|279.99|244.99|: Add or .
+0|Plateau|Land - Mountain Plains|3rd Edition |R|359.99|323.99|287.99|251.99|: Add or .
+0|Scrubland|Land - Plains Swamp|3rd Edition |R|319.99|287.99|255.99|223.99|: Add or .
+0|Badlands|Land - Swamp Mountain|3rd Edition |R|499.99|449.99|399.99|349.99|: Add or .
+0|Bayou|Land - Swamp Forest|3rd Edition |R|579.99|521.99|463.99|405.99|: Add or .
+0|Wheel of Fortune|Sorcery|3rd Edition |R|329.99|296.99|263.99|230.99|Each player discards their hand, then draws seven cards.
+0|Demonic Tutor|Sorcery|3rd Edition |U|49.99|42.49|37.49|32.49|Search your library for a card and put that card into your hand. Then shuffle your library.
+0|Mana Vault|Artifact|3rd Edition |R|54.99|46.74|41.24|35.74|Mana Vault doesn't untap during your untap step. At the beginning of your upkeep, you may pay . If you do, untap Mana Vault. At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. : Add .
+0|Copy Artifact|Enchantment|3rd Edition |R|74.99|63.74|56.24|48.74|You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types.
+0|Sol Ring|Artifact|3rd Edition |U|16.99|14.44|11.89|8.5|: Add .
+0|Fork|Instant|3rd Edition |R|32.99|28.04|24.74|21.44|Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+0|Red Elemental Blast|Instant|3rd Edition |C|2.79|2.23|1.95|1.4|Choose one - Counter target blue spell; or destroy target blue permanent.
+0|Animate Dead|Enchantment - Aura|3rd Edition |U|6.99|5.59|4.89|3.5|Enchant creature card in a graveyard When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+0|Vesuvan Doppelganger|Creature - Shapeshifter|3rd Edition |R|29.99|25.49|22.49|19.49|You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn’t copy that creature’s color and it has “At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn’t copy that creature’s color and it has this ability.”
+0|Winter Orb|Artifact|3rd Edition |R|16.99|14.44|11.89|8.5|Players can't untap more than one land during their untap steps.
+0|Lightning Bolt|Instant|3rd Edition |C|2.99|2.39|2.09|1.5|Lightning Bolt deals 3 damage to any target.
+0|Braingeyser|Sorcery|3rd Edition |R|19.99|16.99|13.99|10.0|Target player draws X cards.
+0|Birds of Paradise|Creature - Bird|3rd Edition |R|24.99|21.24|17.49|12.5|Flying : Add one mana of any color.
+0|Swords to Plowshares|Instant|3rd Edition |U|5.99|4.79|4.19|3.0|Exile target creature. Its controller gains life equal to its power.
+0|Counterspell|Instant|3rd Edition |U|5.99|4.79|4.19|3.0|Counter target spell.
+0|Fastbond|Enchantment|3rd Edition |R|21.99|18.69|15.39|11.0|You may play any number of additional lands on each of your turns. Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+0|Howling Mine|Artifact|3rd Edition |R|9.49|7.59|6.64|4.75|At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+0|Hurkyl's Recall|Instant|3rd Edition |R|6.99|5.59|4.89|3.5|Return all artifacts target player owns to their hand.
+0|Mana Flare|Enchantment|3rd Edition |R|8.99|7.19|6.29|4.5|Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
+0|Dark Ritual|Instant|3rd Edition |C|1.29|1.03|0.9|0.65|Add .
+0|Basalt Monolith|Artifact|3rd Edition |U|3.99|3.19|2.79|2.0|Basalt Monolith doesn't untap during your untap step. : Untap Basalt Monolith. : Add .
+0|Meekstone|Artifact|3rd Edition |R|8.49|6.79|5.94|4.25|Creatures with power 3 or greater don't untap during their controllers' untap steps.
+0|Stasis|Enchantment|3rd Edition |R|8.49|6.79|5.94|4.25|Players skip their untap steps. At the beginning of your upkeep, sacrifice Stasis unless you pay .
+0|Mind Twist|Sorcery|3rd Edition |R|8.49|6.79|5.94|4.25|Target player discards X cards at random.
+0|Zombie Master|Creature - Zombie|3rd Edition |R|10.99|8.79|7.69|5.5|Other Zombie creatures have swampwalk. Other Zombies have ": Regenerate this permanent."
+0|Armageddon|Sorcery|3rd Edition |R|7.99|6.39|5.59|4.0|Destroy all lands.
+0|Nevinyrral's Disk|Artifact|3rd Edition |R|7.99|6.39|5.59|4.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Serendib Efreet|Creature - Efreet|3rd Edition |R|7.99|6.39|5.59|4.0|Flying At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
+0|Sacrifice|Instant|3rd Edition |U|2.99|2.39|2.09|1.5|As an additional cost to cast Sacrifice, sacrifice a creature. Add an amount of equal to the sacrificed creature's converted mana cost.
+0|Goblin King|Creature - Goblin|3rd Edition |R|5.49|4.39|3.84|2.75|Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+0|Wrath of God|Sorcery|3rd Edition |R|10.99|8.79|7.69|5.5|Destroy all creatures. They can't be regenerated.
+0|Hypnotic Specter|Creature - Specter|3rd Edition |U|3.49|2.79|2.44|1.75|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Wild Growth|Enchantment - Aura|3rd Edition |C|0.79|0.63|0.55|0.4|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Swamp (A)|Basic Land - Swamp|3rd Edition |L|0.59|0.47|0.41|0.3|
+0|Verduran Enchantress|Creature - Human Druid|3rd Edition |R|6.49|5.19|4.54|3.25|Whenever you cast an enchantment spell, you may draw a card.
+0|Royal Assassin|Creature - Human Assassin|3rd Edition |R|7.99|6.39|5.59|4.0|: Destroy target tapped creature.
+0|Library of Leng|Artifact|3rd Edition |U|1.99|1.59|1.39|1.0|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Ivory Tower|Artifact|3rd Edition |R|4.99|3.99|3.49|2.5|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Demonic Hordes|Creature - Demon|3rd Edition |R|6.99|5.59|4.89|3.5|: Destroy target land. At the beginning of your upkeep, unless you pay , tap Demonic Hordes and sacrifice a land of an opponent's choice.
+0|Shivan Dragon|Creature - Dragon|3rd Edition |R|9.99|7.99|6.99|5.0|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Serra Angel|Creature - Angel|3rd Edition |U|3.49|2.79|2.44|1.75|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Blue Elemental Blast|Instant|3rd Edition |C|0.59|0.47|0.41|0.3|Choose one Counter target red spell. Destroy target red permanent.
+0|Plains (B)|Basic Land - Plains|3rd Edition |L|0.59|0.47|0.41|0.3|
+0|Smoke|Enchantment|3rd Edition |R|3.99|3.19|2.79|2.0|Players can't untap more than one creature during their untap steps.
+0|Earthquake|Sorcery|3rd Edition |R|4.49|3.59|3.14|2.25|Earthquake deals X damage to each creature without flying and each player.
+0|Island (A)|Basic Land - Island|3rd Edition |L|0.49|0.39|0.34|0.25|
+0|Island Sanctuary|Enchantment|3rd Edition |R|4.49|3.59|3.14|2.25|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Forest (A)|Basic Land - Forest|3rd Edition |L|0.59|0.47|0.41|0.3|
+0|Mountain (A)|Basic Land - Mountain|3rd Edition |L|0.39|0.31|0.27|0.2|
+0|Ankh of Mishra|Artifact|3rd Edition |R|4.49|3.59|3.14|2.25|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|The Rack|Artifact|3rd Edition |U|1.49|1.19|1.04|0.75|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Llanowar Elves|Creature - Elf Druid|3rd Edition |C|0.79|0.63|0.55|0.4|: Add .
+0|Sedge Troll|Creature - Troll|3rd Edition |R|4.99|3.99|3.49|2.5|Sedge Troll gets +1/+1 as long as you control a Swamp. : Regenerate Sedge Troll.
+0|Forest (B)|Basic Land - Forest|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Rock Hydra|Creature - Hydra|3rd Edition |R|3.49|2.79|2.44|1.75|Rock Hydra enters the battlefield with X +1/+1 counters on it. For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage. : Prevent the next 1 damage that would be dealt to Rock Hydra this turn. : Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+0|Swamp (C)|Basic Land - Swamp|3rd Edition |L|0.39|0.31|0.27|0.2|
+0|Swamp (B)|Basic Land - Swamp|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Mountain (B)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Regrowth|Sorcery|3rd Edition |U|1.49|1.19|1.04|0.75|Return target card from your graveyard to your hand.
+0|Balance|Sorcery|3rd Edition |R|3.99|3.19|2.79|2.0|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Savannah Lions|Creature - Cat|3rd Edition |R|4.99|3.99|3.49|2.5|
+0|Plains (C)|Basic Land - Plains|3rd Edition |L|0.35|0.28|0.25|0.18|
+0|Plains (A)|Basic Land - Plains|3rd Edition |L|0.35|0.28|0.25|0.18|
+0|Kormus Bell|Artifact|3rd Edition |R|2.49|1.99|1.74|1.25|All Swamps are 1/1 black creatures that are still lands.
+0|Granite Gargoyle|Creature - Gargoyle|3rd Edition |R|3.99|3.19|2.79|2.0|Flying : Granite Gargoyle gets +0/+1 until end of turn.
+0|Black Vise|Artifact|3rd Edition |U|1.49|1.19|1.04|0.75|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Jayemdae Tome|Artifact|3rd Edition |R|2.49|1.99|1.74|1.25|, : Draw a card.
+0|Forest (C)|Basic Land - Forest|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Instill Energy|Enchantment - Aura|3rd Edition |U|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature can attack as though it had haste. : Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+0|Mana Short|Instant|3rd Edition |R|2.79|2.23|1.95|1.4|Tap all lands target player controls and that player loses all unspent mana.
+0|Ornithopter|Artifact Creature - Thopter|3rd Edition |U|0.79|0.63|0.55|0.4|Flying
+0|Will-O'-The-Wisp|Creature - Spirit|3rd Edition |R|3.49|2.79|2.44|1.75|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Island (B)|Basic Land - Island|3rd Edition |L|0.35|0.28|0.25|0.18|
+0|Bad Moon|Enchantment|3rd Edition |R|4.99|3.99|3.49|2.5|Black creatures get +1/+1.
+0|Control Magic|Enchantment - Aura|3rd Edition |U|1.29|1.03|0.9|0.65|Enchant creature You control enchanted creature.
+0|Clone|Creature - Shapeshifter|3rd Edition |U|1.49|1.19|1.04|0.75|You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+0|Contract from Below|Sorcery|3rd Edition |R|3.99|3.19|2.79|2.0|Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+0|Roc of Kher Ridges|Creature - Bird|3rd Edition |R|2.79|2.23|1.95|1.4|Flying
+0|Earthbind|Enchantment - Aura|3rd Edition |C|0.35|0.28|0.25|0.18|Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+0|Elvish Archers|Creature - Elf Archer|3rd Edition |R|2.49|1.99|1.74|1.25|First strike
+0|Nightmare|*/* Creature - Nightmare Horse|3rd Edition |R|4.49|3.59|3.14|2.25|Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+0|Island (C)|Basic Land - Island|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Kudzu|Enchantment - Aura|3rd Edition |R|2.29|1.83|1.6|1.15|Enchant land When enchanted land becomes tapped, destroy it. That land’s controller may attach Kudzu to a land of their choice.
+0|Personal Incarnation|Creature - Avatar Incarnation|3rd Edition |R|1.49|1.19|1.04|0.75|: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation’s owner may activate this ability. When Personal Incarnation dies, its owner loses half their life, rounded up.
+0|Mahamoti Djinn|Creature - Djinn|3rd Edition |R|1.99|1.59|1.39|1.0|Flying (This creature can't be blocked except by creatures with flying or reach.)
+0|Titania's Song|Enchantment|3rd Edition |R|1.99|1.59|1.39|1.0|Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+0|Disrupting Scepter|Artifact|3rd Edition |R|1.99|1.59|1.39|1.0|, : Target player discards a card. Activate this ability only during your turn.
+0|Living Lands|Enchantment|3rd Edition |R|1.29|1.03|0.9|0.65|All Forests are 1/1 creatures that are still lands.
+0|Force of Nature|Creature - Elemental|3rd Edition |R|2.79|2.23|1.95|1.4|Trample At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay .
+0|Drain Power|Sorcery|3rd Edition |R|1.99|1.59|1.39|1.0|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Black Vise|Artifact|3rd Edition |U|1.49|1.19|1.04|0.75|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Jayemdae Tome|Artifact|3rd Edition |R|2.49|1.99|1.74|1.25|, : Draw a card.
+0|Forest (C)|Basic Land - Forest|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Instill Energy|Enchantment - Aura|3rd Edition |U|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature can attack as though it had haste. : Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+0|Mana Short|Instant|3rd Edition |R|2.79|2.23|1.95|1.4|Tap all lands target player controls and that player loses all unspent mana.
+0|Ornithopter|Artifact Creature - Thopter|3rd Edition |U|0.79|0.63|0.55|0.4|Flying
+0|Will-O'-The-Wisp|Creature - Spirit|3rd Edition |R|3.49|2.79|2.44|1.75|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Island (B)|Basic Land - Island|3rd Edition |L|0.35|0.28|0.25|0.18|
+0|Bad Moon|Enchantment|3rd Edition |R|4.99|3.99|3.49|2.5|Black creatures get +1/+1.
+0|Control Magic|Enchantment - Aura|3rd Edition |U|1.29|1.03|0.9|0.65|Enchant creature You control enchanted creature.
+0|Clone|Creature - Shapeshifter|3rd Edition |U|1.49|1.19|1.04|0.75|You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+0|Contract from Below|Sorcery|3rd Edition |R|3.99|3.19|2.79|2.0|Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+0|Roc of Kher Ridges|Creature - Bird|3rd Edition |R|2.79|2.23|1.95|1.4|Flying
+0|Earthbind|Enchantment - Aura|3rd Edition |C|0.35|0.28|0.25|0.18|Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+0|Elvish Archers|Creature - Elf Archer|3rd Edition |R|2.49|1.99|1.74|1.25|First strike
+0|Nightmare|*/* Creature - Nightmare Horse|3rd Edition |R|4.49|3.59|3.14|2.25|Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+0|Island (C)|Basic Land - Island|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Kudzu|Enchantment - Aura|3rd Edition |R|2.29|1.83|1.6|1.15|Enchant land When enchanted land becomes tapped, destroy it. That land’s controller may attach Kudzu to a land of their choice.
+0|Personal Incarnation|Creature - Avatar Incarnation|3rd Edition |R|1.49|1.19|1.04|0.75|: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation’s owner may activate this ability. When Personal Incarnation dies, its owner loses half their life, rounded up.
+0|Mahamoti Djinn|Creature - Djinn|3rd Edition |R|1.99|1.59|1.39|1.0|Flying (This creature can't be blocked except by creatures with flying or reach.)
+0|Titania's Song|Enchantment|3rd Edition |R|1.99|1.59|1.39|1.0|Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+0|Disrupting Scepter|Artifact|3rd Edition |R|1.99|1.59|1.39|1.0|, : Target player discards a card. Activate this ability only during your turn.
+0|Living Lands|Enchantment|3rd Edition |R|1.29|1.03|0.9|0.65|All Forests are 1/1 creatures that are still lands.
+0|Force of Nature|Creature - Elemental|3rd Edition |R|2.79|2.23|1.95|1.4|Trample At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay .
+0|Drain Power|Sorcery|3rd Edition |R|1.99|1.59|1.39|1.0|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Black Vise|Artifact|3rd Edition |U|1.49|1.19|1.04|0.75|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Jayemdae Tome|Artifact|3rd Edition |R|2.49|1.99|1.74|1.25|, : Draw a card.
+0|Forest (C)|Basic Land - Forest|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Instill Energy|Enchantment - Aura|3rd Edition |U|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature can attack as though it had haste. : Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+0|Mana Short|Instant|3rd Edition |R|2.79|2.23|1.95|1.4|Tap all lands target player controls and that player loses all unspent mana.
+0|Ornithopter|Artifact Creature - Thopter|3rd Edition |U|0.79|0.63|0.55|0.4|Flying
+0|Will-O'-The-Wisp|Creature - Spirit|3rd Edition |R|3.49|2.79|2.44|1.75|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Island (B)|Basic Land - Island|3rd Edition |L|0.35|0.28|0.25|0.18|
+0|Bad Moon|Enchantment|3rd Edition |R|4.99|3.99|3.49|2.5|Black creatures get +1/+1.
+0|Control Magic|Enchantment - Aura|3rd Edition |U|1.29|1.03|0.9|0.65|Enchant creature You control enchanted creature.
+0|Clone|Creature - Shapeshifter|3rd Edition |U|1.49|1.19|1.04|0.75|You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+0|Contract from Below|Sorcery|3rd Edition |R|3.99|3.19|2.79|2.0|Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+0|Roc of Kher Ridges|Creature - Bird|3rd Edition |R|2.79|2.23|1.95|1.4|Flying
+0|Earthbind|Enchantment - Aura|3rd Edition |C|0.35|0.28|0.25|0.18|Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+0|Elvish Archers|Creature - Elf Archer|3rd Edition |R|2.49|1.99|1.74|1.25|First strike
+0|Nightmare|*/* Creature - Nightmare Horse|3rd Edition |R|4.49|3.59|3.14|2.25|Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+0|Island (C)|Basic Land - Island|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Kudzu|Enchantment - Aura|3rd Edition |R|2.29|1.83|1.6|1.15|Enchant land When enchanted land becomes tapped, destroy it. That land’s controller may attach Kudzu to a land of their choice.
+0|Personal Incarnation|Creature - Avatar Incarnation|3rd Edition |R|1.49|1.19|1.04|0.75|: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation’s owner may activate this ability. When Personal Incarnation dies, its owner loses half their life, rounded up.
+0|Mahamoti Djinn|Creature - Djinn|3rd Edition |R|1.99|1.59|1.39|1.0|Flying (This creature can't be blocked except by creatures with flying or reach.)
+0|Titania's Song|Enchantment|3rd Edition |R|1.99|1.59|1.39|1.0|Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+0|Disrupting Scepter|Artifact|3rd Edition |R|1.99|1.59|1.39|1.0|, : Target player discards a card. Activate this ability only during your turn.
+0|Living Lands|Enchantment|3rd Edition |R|1.29|1.03|0.9|0.65|All Forests are 1/1 creatures that are still lands.
+0|Force of Nature|Creature - Elemental|3rd Edition |R|2.79|2.23|1.95|1.4|Trample At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay .
+0|Drain Power|Sorcery|3rd Edition |R|1.99|1.59|1.39|1.0|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|El-Hajjaj|Creature - Human Wizard|3rd Edition |R|1.29|1.03|0.9|0.65|Lifelink (Whenever this creature deals damage, you gain that much life.)
+0|Rocket Launcher|Artifact|3rd Edition |R|1.49|1.19|1.04|0.75|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+0|Disintegrate|Sorcery|3rd Edition |C|0.29|0.23|0.2|0.15|Disintegrate deals X damage to any target. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+0|Unsummon|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Return target creature to its owner's hand.
+0|Farmstead|Enchantment - Aura|3rd Edition |R|1.99|1.59|1.39|1.0|Enchant land Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+0|Mountain (C)|Basic Land - Mountain|3rd Edition |L|0.29|0.23|0.2|0.15|
+0|Veteran Bodyguard|Creature - Human|3rd Edition |R|2.99|2.39|2.09|1.5|As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+0|Sorceress Queen|Creature - Human Wizard|3rd Edition |R|2.29|1.83|1.6|1.15|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Gaea's Liege|*/* Creature - Avatar|3rd Edition |R|1.79|1.43|1.25|0.9|As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. : Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+0|Mijae Djinn|Creature - Djinn|3rd Edition |R|1.49|1.19|1.04|0.75|Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+0|Northern Paladin|Creature - Human Knight|3rd Edition |R|1.29|1.03|0.9|0.65|, : Destroy target black permanent.
+0|Web|Enchantment - Aura|3rd Edition |R|1.29|1.03|0.9|0.65|Enchant creature Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+0|Disenchant|Instant|3rd Edition |C|0.25|0.2|0.18|0.13|Destroy target artifact or enchantment.
+0|Black Knight|Creature - Human Knight|3rd Edition |U|0.69|0.55|0.48|0.35|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Sengir Vampire|Creature - Vampire|3rd Edition |U|0.99|0.79|0.69|0.5|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Timber Wolves|Creature - Wolf|3rd Edition |R|1.29|1.03|0.9|0.65|Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+0|Demonic Attorney|Sorcery|3rd Edition |R|2.49|1.99|1.74|1.25|Remove Demonic Attorney from your deck before playing if you’re not playing for ante. Each player antes the top card of their library.
+0|Fireball|Sorcery|3rd Edition |C|0.25|0.2|0.18|0.13|Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs more to cast for each target beyond the first.
+0|Dingus Egg|Artifact|3rd Edition |R|0.99|0.79|0.69|0.5|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Magical Hack|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Righteousness|Instant|3rd Edition |R|1.49|1.19|1.04|0.75|Target blocking creature gets +7/+7 until end of turn.
+0|Giant Growth|Instant|3rd Edition |C|0.29|0.23|0.2|0.15|Target creature gets +3/+3 until end of turn.
+0|Sleight of Mind|Instant|3rd Edition |R|1.29|1.03|0.9|0.65|Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+0|Aspect of Wolf|Enchantment - Aura|3rd Edition |R|1.49|1.19|1.04|0.75|Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+0|Darkpact|Sorcery|3rd Edition |R|2.29|1.83|1.6|1.15|Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+0|Sylvan Library|Enchantment|4th Edition |R|59.99|50.99|44.99|38.99|At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.
+0|Strip Mine|Land|4th Edition |U|16.99|14.44|11.89|8.5|: Add . , Sacrifice Strip Mine: Destroy target land.
+0|Mana Vault|Artifact|4th Edition |R|49.99|42.49|37.49|32.49|Mana Vault doesn't untap during your untap step. At the beginning of your upkeep, you may pay . If you do, untap Mana Vault. At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. : Add .
+0|Land Tax|Enchantment|4th Edition |R|44.99|38.24|33.74|29.24|At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+0|Animate Dead|Enchantment - Aura|4th Edition |U|6.99|5.59|4.89|3.5|Enchant creature card in a graveyard When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+0|Red Elemental Blast|Instant|4th Edition |C|2.49|1.99|1.74|1.25|Choose one - Counter target blue spell; or destroy target blue permanent.
+0|Birds of Paradise|Creature - Bird|4th Edition |R|18.99|16.14|13.29|9.5|Flying : Add one mana of any color.
+0|Winter Orb|Artifact|4th Edition |R|14.99|11.99|10.49|7.5|Players can't untap more than one land during their untap steps.
+0|Zombie Master|Creature - Zombie|4th Edition |R|9.49|7.59|6.64|4.75|Other Zombie creatures have swampwalk. Other Zombies have ": Regenerate this permanent."
+0|Winds of Change|Sorcery|4th Edition |R|15.99|13.59|11.19|8.0|Each player shuffles the cards from their hand into their library, then draws that many cards.
+0|Swords to Plowshares|Instant|4th Edition |U|5.99|4.79|4.19|3.0|Exile target creature. Its controller gains life equal to its power.
+0|Lightning Bolt|Instant|4th Edition |C|2.79|2.23|1.95|1.4|Lightning Bolt deals 3 damage to any target.
+0|Meekstone|Artifact|4th Edition |R|6.99|5.59|4.89|3.5|Creatures with power 3 or greater don't untap during their controllers' untap steps.
+0|Mishra's Factory|Land|4th Edition |U|3.49|2.79|2.44|1.75|: Add . : Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land. : Target Assembly-Worker creature gets +1/+1 until end of turn.
+0|Dark Ritual|Instant|4th Edition |C|0.99|0.79|0.69|0.5|Add .
+0|Fellwar Stone|Artifact|4th Edition |U|3.49|2.79|2.44|1.75|: Add one mana of any color that a land an opponent controls could produce.
+0|Mana Flare|Enchantment|4th Edition |R|7.99|6.39|5.59|4.0|Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
+0|Verduran Enchantress|Creature - Human Druid|4th Edition |R|5.99|4.79|4.19|3.0|Whenever you cast an enchantment spell, you may draw a card.
+0|Wrath of God|Sorcery|4th Edition |R|7.99|6.39|5.59|4.0|Destroy all creatures. They can't be regenerated.
+0|Stasis|Enchantment|4th Edition |R|7.49|5.99|5.24|3.75|Players skip their untap steps. At the beginning of your upkeep, sacrifice Stasis unless you pay .
+0|Hurkyl's Recall|Instant|4th Edition |R|6.49|5.19|4.54|3.25|Return all artifacts target player owns to their hand.
+0|Mind Twist|Sorcery|4th Edition |R|7.49|5.99|5.24|3.75|Target player discards X cards at random.
+0|Goblin King|Creature - Goblin|4th Edition |R|4.99|3.99|3.49|2.5|Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+0|Howling Mine|Artifact|4th Edition |R|6.99|5.59|4.89|3.5|At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+0|Armageddon|Sorcery|4th Edition |R|6.49|5.19|4.54|3.25|Destroy all lands.
+0|Shivan Dragon|Creature - Dragon|4th Edition |R|4.49|3.59|3.14|2.25|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Ivory Tower|Artifact|4th Edition |R|3.49|2.79|2.44|1.75|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Hypnotic Specter|Creature - Specter|4th Edition |U|2.79|2.23|1.95|1.4|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Royal Assassin|Creature - Human Assassin|4th Edition |R|4.49|3.59|3.14|2.25|: Destroy target tapped creature.
+0|The Rack|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Counterspell|Instant|4th Edition |U|3.49|2.79|2.44|1.75|Counter target spell.
+0|Triskelion|Artifact Creature - Construct|4th Edition |R|3.49|2.79|2.44|1.75|Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to any target.
+0|Ankh of Mishra|Artifact|4th Edition |R|2.99|2.39|2.09|1.5|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|Bad Moon|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Black creatures get +1/+1.
+0|Island Sanctuary|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Library of Leng|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Wild Growth|Enchantment - Aura|4th Edition |C|0.59|0.47|0.41|0.3|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Nevinyrral's Disk|Artifact|4th Edition |R|3.99|3.19|2.79|2.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Smoke|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Players can't untap more than one creature during their untap steps.
+0|Blue Elemental Blast|Instant|4th Edition |C|0.59|0.47|0.41|0.3|Choose one - Counter target red spell; or destroy target red permanent.
+0|Ball Lightning|Creature - Elemental|4th Edition |R|3.99|3.19|2.79|2.0|Trample Haste (This creature can attack and as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+0|Balance|Sorcery|4th Edition |R|2.29|1.83|1.6|1.15|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Kormus Bell|Artifact|4th Edition |R|1.99|1.59|1.39|1.0|All Swamps are 1/1 black creatures that are still lands.
+0|Savannah Lions|Creature - Cat|4th Edition |R|2.99|2.39|2.09|1.5|
+0|Power Surge|Enchantment|4th Edition |R|1.49|1.19|1.04|0.75|At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+0|Mountain (A)|Basic Land - Mountain|4th Edition |L|0.59|0.47|0.41|0.3|
+0|Will-O'-The-Wisp|Creature - Spirit|4th Edition |R|2.29|1.83|1.6|1.15|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Black Vise|Artifact|4th Edition |U|0.99|0.79|0.69|0.5|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Serra Angel|Creature - Angel|4th Edition |U|0.99|0.79|0.69|0.5|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Drain Power|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Shivan Dragon|Creature - Dragon|4th Edition |R|4.49|3.59|3.14|2.25|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Ivory Tower|Artifact|4th Edition |R|3.49|2.79|2.44|1.75|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Hypnotic Specter|Creature - Specter|4th Edition |U|2.79|2.23|1.95|1.4|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Royal Assassin|Creature - Human Assassin|4th Edition |R|4.49|3.59|3.14|2.25|: Destroy target tapped creature.
+0|The Rack|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Counterspell|Instant|4th Edition |U|3.49|2.79|2.44|1.75|Counter target spell.
+0|Triskelion|Artifact Creature - Construct|4th Edition |R|3.49|2.79|2.44|1.75|Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to any target.
+0|Ankh of Mishra|Artifact|4th Edition |R|2.99|2.39|2.09|1.5|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|Bad Moon|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Black creatures get +1/+1.
+0|Island Sanctuary|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Library of Leng|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Wild Growth|Enchantment - Aura|4th Edition |C|0.59|0.47|0.41|0.3|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Nevinyrral's Disk|Artifact|4th Edition |R|3.99|3.19|2.79|2.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Smoke|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Players can't untap more than one creature during their untap steps.
+0|Blue Elemental Blast|Instant|4th Edition |C|0.59|0.47|0.41|0.3|Choose one - Counter target red spell; or destroy target red permanent.
+0|Ball Lightning|Creature - Elemental|4th Edition |R|3.99|3.19|2.79|2.0|Trample Haste (This creature can attack and as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+0|Balance|Sorcery|4th Edition |R|2.29|1.83|1.6|1.15|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Kormus Bell|Artifact|4th Edition |R|1.99|1.59|1.39|1.0|All Swamps are 1/1 black creatures that are still lands.
+0|Savannah Lions|Creature - Cat|4th Edition |R|2.99|2.39|2.09|1.5|
+0|Power Surge|Enchantment|4th Edition |R|1.49|1.19|1.04|0.75|At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+0|Mountain (A)|Basic Land - Mountain|4th Edition |L|0.59|0.47|0.41|0.3|
+0|Will-O'-The-Wisp|Creature - Spirit|4th Edition |R|2.29|1.83|1.6|1.15|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Black Vise|Artifact|4th Edition |U|0.99|0.79|0.69|0.5|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Serra Angel|Creature - Angel|4th Edition |U|0.99|0.79|0.69|0.5|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Drain Power|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Shivan Dragon|Creature - Dragon|4th Edition |R|4.49|3.59|3.14|2.25|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Ivory Tower|Artifact|4th Edition |R|3.49|2.79|2.44|1.75|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Hypnotic Specter|Creature - Specter|4th Edition |U|2.79|2.23|1.95|1.4|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Royal Assassin|Creature - Human Assassin|4th Edition |R|4.49|3.59|3.14|2.25|: Destroy target tapped creature.
+0|The Rack|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Counterspell|Instant|4th Edition |U|3.49|2.79|2.44|1.75|Counter target spell.
+0|Triskelion|Artifact Creature - Construct|4th Edition |R|3.49|2.79|2.44|1.75|Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to any target.
+0|Ankh of Mishra|Artifact|4th Edition |R|2.99|2.39|2.09|1.5|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|Bad Moon|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Black creatures get +1/+1.
+0|Island Sanctuary|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Library of Leng|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Wild Growth|Enchantment - Aura|4th Edition |C|0.59|0.47|0.41|0.3|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Nevinyrral's Disk|Artifact|4th Edition |R|3.99|3.19|2.79|2.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Smoke|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Players can't untap more than one creature during their untap steps.
+0|Blue Elemental Blast|Instant|4th Edition |C|0.59|0.47|0.41|0.3|Choose one - Counter target red spell; or destroy target red permanent.
+0|Ball Lightning|Creature - Elemental|4th Edition |R|3.99|3.19|2.79|2.0|Trample Haste (This creature can attack and as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+0|Balance|Sorcery|4th Edition |R|2.29|1.83|1.6|1.15|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Kormus Bell|Artifact|4th Edition |R|1.99|1.59|1.39|1.0|All Swamps are 1/1 black creatures that are still lands.
+0|Savannah Lions|Creature - Cat|4th Edition |R|2.99|2.39|2.09|1.5|
+0|Power Surge|Enchantment|4th Edition |R|1.49|1.19|1.04|0.75|At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+0|Mountain (A)|Basic Land - Mountain|4th Edition |L|0.59|0.47|0.41|0.3|
+0|Will-O'-The-Wisp|Creature - Spirit|4th Edition |R|2.29|1.83|1.6|1.15|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Black Vise|Artifact|4th Edition |U|0.99|0.79|0.69|0.5|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Serra Angel|Creature - Angel|4th Edition |U|0.99|0.79|0.69|0.5|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Drain Power|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Shivan Dragon|Creature - Dragon|4th Edition |R|4.49|3.59|3.14|2.25|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Ivory Tower|Artifact|4th Edition |R|3.49|2.79|2.44|1.75|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Hypnotic Specter|Creature - Specter|4th Edition |U|2.79|2.23|1.95|1.4|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Royal Assassin|Creature - Human Assassin|4th Edition |R|4.49|3.59|3.14|2.25|: Destroy target tapped creature.
+0|The Rack|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Counterspell|Instant|4th Edition |U|3.49|2.79|2.44|1.75|Counter target spell.
+0|Triskelion|Artifact Creature - Construct|4th Edition |R|3.49|2.79|2.44|1.75|Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to any target.
+0|Ankh of Mishra|Artifact|4th Edition |R|2.99|2.39|2.09|1.5|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|Bad Moon|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Black creatures get +1/+1.
+0|Island Sanctuary|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Library of Leng|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Wild Growth|Enchantment - Aura|4th Edition |C|0.59|0.47|0.41|0.3|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Nevinyrral's Disk|Artifact|4th Edition |R|3.99|3.19|2.79|2.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Smoke|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Players can't untap more than one creature during their untap steps.
+0|Blue Elemental Blast|Instant|4th Edition |C|0.59|0.47|0.41|0.3|Choose one - Counter target red spell; or destroy target red permanent.
+0|Ball Lightning|Creature - Elemental|4th Edition |R|3.99|3.19|2.79|2.0|Trample Haste (This creature can attack and as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+0|Balance|Sorcery|4th Edition |R|2.29|1.83|1.6|1.15|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Kormus Bell|Artifact|4th Edition |R|1.99|1.59|1.39|1.0|All Swamps are 1/1 black creatures that are still lands.
+0|Savannah Lions|Creature - Cat|4th Edition |R|2.99|2.39|2.09|1.5|
+0|Power Surge|Enchantment|4th Edition |R|1.49|1.19|1.04|0.75|At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+0|Mountain (A)|Basic Land - Mountain|4th Edition |L|0.59|0.47|0.41|0.3|
+0|Will-O'-The-Wisp|Creature - Spirit|4th Edition |R|2.29|1.83|1.6|1.15|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Black Vise|Artifact|4th Edition |U|0.99|0.79|0.69|0.5|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Serra Angel|Creature - Angel|4th Edition |U|0.99|0.79|0.69|0.5|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Drain Power|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Shivan Dragon|Creature - Dragon|4th Edition |R|4.49|3.59|3.14|2.25|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Ivory Tower|Artifact|4th Edition |R|3.49|2.79|2.44|1.75|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Hypnotic Specter|Creature - Specter|4th Edition |U|2.79|2.23|1.95|1.4|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Royal Assassin|Creature - Human Assassin|4th Edition |R|4.49|3.59|3.14|2.25|: Destroy target tapped creature.
+0|The Rack|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Counterspell|Instant|4th Edition |U|3.49|2.79|2.44|1.75|Counter target spell.
+0|Triskelion|Artifact Creature - Construct|4th Edition |R|3.49|2.79|2.44|1.75|Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to any target.
+0|Ankh of Mishra|Artifact|4th Edition |R|2.99|2.39|2.09|1.5|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|Bad Moon|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Black creatures get +1/+1.
+0|Island Sanctuary|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Library of Leng|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Wild Growth|Enchantment - Aura|4th Edition |C|0.59|0.47|0.41|0.3|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Nevinyrral's Disk|Artifact|4th Edition |R|3.99|3.19|2.79|2.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Smoke|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Players can't untap more than one creature during their untap steps.
+0|Blue Elemental Blast|Instant|4th Edition |C|0.59|0.47|0.41|0.3|Choose one - Counter target red spell; or destroy target red permanent.
+0|Ball Lightning|Creature - Elemental|4th Edition |R|3.99|3.19|2.79|2.0|Trample Haste (This creature can attack and as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+0|Balance|Sorcery|4th Edition |R|2.29|1.83|1.6|1.15|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Kormus Bell|Artifact|4th Edition |R|1.99|1.59|1.39|1.0|All Swamps are 1/1 black creatures that are still lands.
+0|Savannah Lions|Creature - Cat|4th Edition |R|2.99|2.39|2.09|1.5|
+0|Power Surge|Enchantment|4th Edition |R|1.49|1.19|1.04|0.75|At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+0|Mountain (A)|Basic Land - Mountain|4th Edition |L|0.59|0.47|0.41|0.3|
+0|Will-O'-The-Wisp|Creature - Spirit|4th Edition |R|2.29|1.83|1.6|1.15|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Black Vise|Artifact|4th Edition |U|0.99|0.79|0.69|0.5|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Serra Angel|Creature - Angel|4th Edition |U|0.99|0.79|0.69|0.5|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Drain Power|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Shivan Dragon|Creature - Dragon|4th Edition |R|4.49|3.59|3.14|2.25|Flying : Shivan Dragon gets +1/+0 until end of turn.
+0|Ivory Tower|Artifact|4th Edition |R|3.49|2.79|2.44|1.75|At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+0|Hypnotic Specter|Creature - Specter|4th Edition |U|2.79|2.23|1.95|1.4|Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+0|Royal Assassin|Creature - Human Assassin|4th Edition |R|4.49|3.59|3.14|2.25|: Destroy target tapped creature.
+0|The Rack|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
+0|Counterspell|Instant|4th Edition |U|3.49|2.79|2.44|1.75|Counter target spell.
+0|Triskelion|Artifact Creature - Construct|4th Edition |R|3.49|2.79|2.44|1.75|Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to any target.
+0|Ankh of Mishra|Artifact|4th Edition |R|2.99|2.39|2.09|1.5|Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+0|Bad Moon|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Black creatures get +1/+1.
+0|Island Sanctuary|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+0|Library of Leng|Artifact|4th Edition |U|1.79|1.43|1.25|0.9|You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+0|Wild Growth|Enchantment - Aura|4th Edition |C|0.59|0.47|0.41|0.3|Enchant land Whenever enchanted land is tapped for mana, its controller adds an additional .
+0|Nevinyrral's Disk|Artifact|4th Edition |R|3.99|3.19|2.79|2.0|Nevinyrral's Disk enters the battlefield tapped. , : Destroy all artifacts, creatures, and enchantments.
+0|Smoke|Enchantment|4th Edition |R|3.49|2.79|2.44|1.75|Players can't untap more than one creature during their untap steps.
+0|Blue Elemental Blast|Instant|4th Edition |C|0.59|0.47|0.41|0.3|Choose one - Counter target red spell; or destroy target red permanent.
+0|Ball Lightning|Creature - Elemental|4th Edition |R|3.99|3.19|2.79|2.0|Trample Haste (This creature can attack and as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+0|Balance|Sorcery|4th Edition |R|2.29|1.83|1.6|1.15|Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+0|Kormus Bell|Artifact|4th Edition |R|1.99|1.59|1.39|1.0|All Swamps are 1/1 black creatures that are still lands.
+0|Savannah Lions|Creature - Cat|4th Edition |R|2.99|2.39|2.09|1.5|
+0|Power Surge|Enchantment|4th Edition |R|1.49|1.19|1.04|0.75|At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+0|Mountain (A)|Basic Land - Mountain|4th Edition |L|0.59|0.47|0.41|0.3|
+0|Will-O'-The-Wisp|Creature - Spirit|4th Edition |R|2.29|1.83|1.6|1.15|Flying (This creature can't be blocked except by creatures with flying or reach.) : Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0|Black Vise|Artifact|4th Edition |U|0.99|0.79|0.69|0.5|As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+0|Serra Angel|Creature - Angel|4th Edition |U|0.99|0.79|0.69|0.5|Flying Vigilance (Attacking doesn't cause this creature to tap.)
+0|Drain Power|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+0|Nether Shadow|Creature - Spirit|4th Edition |R|1.29|1.03|0.9|0.65|Haste At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+0|Ornithopter|Artifact Creature - Thopter|4th Edition |U|0.69|0.55|0.48|0.35|Flying
+0|Llanowar Elves|Creature - Elf Druid|4th Edition |C|0.39|0.31|0.27|0.2|: Add .
+0|Instill Energy|Enchantment - Aura|4th Edition |U|0.99|0.79|0.69|0.5|Enchant creature Enchanted creature can attack as though it had haste. : Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+0|Manabarbs|Enchantment|4th Edition |R|1.29|1.03|0.9|0.65|Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+0|Control Magic|Enchantment - Aura|4th Edition |U|0.79|0.63|0.55|0.4|Enchant creature You control enchanted creature.
+0|Earthquake|Sorcery|4th Edition |R|1.29|1.03|0.9|0.65|Earthquake deals X damage to each creature without flying and each player.
+0|Tetravus|Artifact Creature - Construct|4th Edition |R|1.49|1.19|1.04|0.75|Flying Tetravus enters the battlefield with three +1/+1 counters on it. At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, put that many 1/1 colorless Tetravite artifact creature tokens onto the battlefield. They each have flying and "This creature can't be enchanted." At the beginning of your upkeep, you may exile any number of tokens put onto the battlefield with Tetravus. If you do, put that many +1/+1 counters on Tetravus.
+0|Spirit Link|Enchantment - Aura|4th Edition |U|0.59|0.47|0.41|0.3|Enchant creature Whenever enchanted creature deals damage, you gain that much life.
+0|Greed|Enchantment|4th Edition |R|1.29|1.03|0.9|0.65|, Pay 2 life: Draw a card.
+0|Lord of the Pit|Creature - Demon|4th Edition |R|1.29|1.03|0.9|0.65|Flying, trample At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+0|Mana Short|Instant|4th Edition |R|1.29|1.03|0.9|0.65|Tap all lands target player controls and that player loses all unspent mana.
+0|Nightmare|*/* Creature - Nightmare Horse|4th Edition |R|1.29|1.03|0.9|0.65|Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+0|Forest (B)|Basic Land - Forest|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Kismet|Enchantment|4th Edition |U|0.59|0.47|0.41|0.3|Artifacts, creatures, and lands played by your opponents enter the battlefield tapped.
+0|Mountain (C)|Basic Land - Mountain|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Island (B)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Plains (B)|Basic Land - Plains|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Titania's Song|Enchantment|4th Edition |R|0.99|0.79|0.69|0.5|Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+0|Forest (A)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Killer Bees|Creature - Insect|4th Edition |U|0.39|0.31|0.27|0.2|Flying : Killer Bees gets +1/+1 until end of turn.
+0|Swamp (A)|Basic Land - Swamp|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Swamp (C)|Basic Land - Swamp|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jandor's Saddlebags|Artifact|4th Edition |R|0.79|0.63|0.55|0.4|, : Untap target creature.
+0|Twiddle|Instant|4th Edition |C|0.25|0.2|0.18|0.13|You may tap or untap target artifact, creature, or land.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
+0|Magical Hack|Instant|4th Edition |R|0.59|0.47|0.41|0.3|Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+0|Island (A)|Basic Land - Island|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Energy Tap|Sorcery|4th Edition |C|0.25|0.2|0.18|0.13|Tap target untapped creature you control. If you do, add , where X is that creature's converted mana cost.
+0|Dingus Egg|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+0|Plains (C)|Basic Land - Plains|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Jayemdae Tome|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|, : Draw a card.
+0|Inferno|Instant|4th Edition |R|0.69|0.55|0.48|0.35|Inferno deals 6 damage to each creature and each player.
+0|Elvish Archers|Creature - Elf Archer|4th Edition |R|0.79|0.63|0.55|0.4|First strike
+0|Mana Clash|Sorcery|4th Edition |R|0.59|0.47|0.41|0.3|You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+0|Pestilence|Enchantment|4th Edition |C|0.25|0.2|0.18|0.13|At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. : Pestilence deals 1 damage to each creature and each player.
+0|Black Knight|Creature - Human Knight|4th Edition |U|0.39|0.31|0.27|0.2|First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+0|Armageddon Clock|Artifact|4th Edition |R|0.59|0.47|0.41|0.3|At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. : Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+0|Swamp (B)|Basic Land - Swamp|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Forest (C)|Basic Land - Forest|4th Edition |L|0.29|0.23|0.2|0.15|
+0|Hurricane|Sorcery|4th Edition |U|0.29|0.23|0.2|0.15|Hurricane deals X damage to each creature with flying and each player.
+0|Living Lands|Enchantment|4th Edition |R|0.59|0.47|0.41|0.3|All Forests are 1/1 creatures that are still lands.
+0|Sorceress Queen|Creature - Human Wizard|4th Edition |R|0.49|0.39|0.34|0.25|: Target creature other than Sorceress Queen is 0/2 until end of turn.
+0|Sengir Vampire|Creature - Vampire|4th Edition |U|0.69|0.55|0.48|0.35|Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+0|Cosmic Horror|Creature - Horror|4th Edition |R|0.39|0.31|0.27|0.2|First strike At the beginning of your upkeep, unless you pay , sacrifice Cosmic Horror and it deals 7 damage to you.
+0|Bottle of Suleiman|Artifact|4th Edition |R|0.39|0.31|0.27|0.2|, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+0|Island (C)|Basic Land - Island|4th Edition |L|0.35|0.28|0.25|0.18|
+0|Millstone|Artifact|4th Edition |R|0.49|0.39|0.34|0.25|, : Target player mills two cards.
+0|Prodigal Sorcerer|Creature - Human Wizard|4th Edition |C|0.25|0.2|0.18|0.13|: Prodigal Sorcerer deals 1 damage to any target.
+0|Colossus of Sardia|Artifact Creature - Golem|4th Edition |R|0.59|0.47|0.41|0.3|Trample Colossus of Sardia doesn't untap during your untap step. : Untap Colossus of Sardia. Activate this ability only during your upkeep.
+0|Northern Paladin|Creature - Human Knight|4th Edition |R|0.59|0.47|0.41|0.3|, : Destroy target black permanent.
