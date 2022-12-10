@@ -1,16 +1,23 @@
 package com.mtg.spark.loadData;
 
+import com.mtg.spark.Utils.DataSetUtils;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
+import org.apache.spark.sql.functions;
+
 import com.mtg.spark.constants.*;
 
 public class loadCardKingdom {
 	
-	public void loadNonFoil(Dataset<Row> inputDs) {
+	public void loadNonFoil(Dataset<Row> inputDs, String Date) {
 
 		String dbConntectionURL = jdbcConstants.JDBCCONNECTIONURL;
 		
-		Dataset<Row> sortedDs = inputDs.orderBy("Name");
+		Dataset<Row> ckDs = inputDs.withColumn("Date", functions.lit(Date));
+
+		Dataset<Row> reOrderedDs = new DataSetUtils().reOrderColumns(ckDs);
+
+		Dataset<Row> sortedDs = reOrderedDs.orderBy("Name");
 		
 		sortedDs.show(3);
 		
@@ -24,11 +31,15 @@ public class loadCardKingdom {
 
 	}
 	
-	public void loadFoil(Dataset<Row> inputDs) {
+	public void loadFoil(Dataset<Row> inputDs, String Date) {
 
 		String dbConntectionURL = jdbcConstants.JDBCCONNECTIONURL;
 		
-		Dataset<Row> sortedDs = inputDs.orderBy("Name");
+		Dataset<Row> ckDs = inputDs.withColumn("Date", functions.lit(Date));
+
+		Dataset<Row> reOrderedDs = new DataSetUtils().reOrderColumns(ckDs);
+
+		Dataset<Row> sortedDs = reOrderedDs.orderBy("Name");
 		
 		sortedDs.show(3);
 		

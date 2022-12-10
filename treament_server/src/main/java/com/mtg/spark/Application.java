@@ -19,9 +19,7 @@ public class Application {
 				.master("local")
 				.getOrCreate();
 		
-		System.out.println(args[0]);
-		System.out.println(args[1]);
-		System.out.println(args[2]);
+		System.out.println("Website: " + args[0] + ", Foil/Non-Foil: " + args[1] + ", Date: " + args[2]);
 		
 		if(args[0].equals("ck") && args[1].equals("nf")) {
 			Dataset<Row> ds = spark.read().format("csv")
@@ -31,9 +29,9 @@ public class Application {
 			
 			loadCardKingdom loadCK = new loadCardKingdom();
 			
-			loadCK.loadNonFoil(ds);
+			loadCK.loadNonFoil(ds,args[2]);
 		}
-		if(args[0].equals("ck") && args[1].equals("nf")) {
+		else if(args[0].equals("ck") && args[1].equals("f")) {
 			Dataset<Row> ds = spark.read().format("csv")
 					  .option("header", true)
 					  .option("delimiter", "|")
@@ -41,7 +39,7 @@ public class Application {
 			
 			loadCardKingdom loadCK = new loadCardKingdom();
 			
-			loadCK.loadNonFoil(ds);
+			loadCK.loadFoil(ds,args[2]);
 		}
 		
 		
