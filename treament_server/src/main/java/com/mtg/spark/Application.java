@@ -41,7 +41,26 @@ public class Application {
 			
 			loadCK.loadFoil(ds,args[2]);
 		}
-		
+		else if(args[0].equals("scg") && args[1].equals("nf")) {
+			Dataset<Row> ds = spark.read().format("csv")
+					.option("header", true)
+					.option("delimiter", "|")
+					.load("src/main/resources/SCG_PRICES_" + args[2] + ".txt");
+
+			loadStarCityGames loadSCG = new loadStarCityGames();
+
+			loadSCG.loadNonFoil(ds,args[2]);
+		}
+		else if(args[0].equals("scg") && args[1].equals("f")) {
+			Dataset<Row> ds = spark.read().format("csv")
+					.option("header", true)
+					.option("delimiter", "|")
+					.load("src/main/resources/SCG_PRICES_" + args[2] + ".txt");
+
+			loadStarCityGames loadSCG = new loadStarCityGames();
+
+			loadSCG.loadFoil(ds,args[2]);
+		}
 		
 		
 		
