@@ -7,8 +7,11 @@ import org.apache.spark.sql.functions;
 
 import com.mtg.spark.constants.*;
 
+
 public class loadCardKingdom {
-	
+
+
+
 	public void loadNonFoil(Dataset<Row> inputDs, String Date) {
 
 		String dbConntectionURL = jdbcConstants.JDBCCONNECTIONURL;
@@ -19,13 +22,14 @@ public class loadCardKingdom {
 
 		Dataset<Row> sortedDs = reOrderedDs.orderBy("Name");
 		
-		sortedDs.show(3);
-		
+		//sortedDs.show(3);
+		ScraperHistory.UpdateScraperHistory(Date,"Card Kingdom", "Non foil", sortedDs.count());
+
 		sortedDs.write().format("jdbc").option("url", dbConntectionURL)
 									   .option("driver", "com.mysql.cj.jdbc.Driver")
 									   .option("dbtable", "mtgcards.card_kingdom")
 									   .option("user", "root")
-									   .option("password","1!April199#" )
+									   .option("password",jdbcConstants.MYSQLPASSWORD )
 									   .mode("overwrite")
 									   .save();
 
@@ -41,13 +45,14 @@ public class loadCardKingdom {
 
 		Dataset<Row> sortedDs = reOrderedDs.orderBy("Name");
 		
-		sortedDs.show(3);
-		
+		//sortedDs.show(3);
+		ScraperHistory.UpdateScraperHistory(Date,"Card Kingdom", "Foil", sortedDs.count());
+
 		sortedDs.write().format("jdbc").option("url", dbConntectionURL)
 									   .option("driver", "com.mysql.cj.jdbc.Driver")
 									   .option("dbtable", "mtgcards.card_kingdom_foil")
 									   .option("user", "root")
-									   .option("password","1!April199#" )
+									   .option("password",jdbcConstants.MYSQLPASSWORD )
 									   .mode("overwrite")
 									   .save();
 
