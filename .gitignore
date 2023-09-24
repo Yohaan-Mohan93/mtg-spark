@@ -1,2 +1,10 @@
 .metadata
-treatment_server/target
+.idea
+treament-server/__pycache__
+treatment-server/input
+treament-server/Card_Kingdom/__pycache__
+treament-server/Include
+treament-server/Scripts
+treament-server/Lib
+treament-server/share
+treatment-server/Logs
